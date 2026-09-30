@@ -22,8 +22,6 @@ Der **Mobile RDS Encoder** ist eine Android-Applikation, die es ermöglicht, dyn
 
 ## 📥 Installation (APK)
 
-Die App richtet sich an eine spezielle Zielgruppe und erfordert direkten Hardware-Zugriff. Sie wird daher hier als APK bereitgestellt.
-
 1. Lade die aktuellste Version [hier](https://github.com/Highpoint2000/MobileRDSEncoder/blob/main/Mobile_RDS_Encoder_1.1.apk) herunter.
 2. Erlaube auf deinem Android-Gerät die Installation von Apps aus "Unbekannten Quellen" (bzw. erteile die Berechtigung für deinen Browser/Dateimanager).
 3. Öffne die APK-Datei und folge den Installationsanweisungen.
