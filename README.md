@@ -1,10 +1,14 @@
 # Mobile RDS Encoder (Android) 📻
 
-**Version:** 1.1  
-
 Der **Mobile RDS Encoder** ist eine Android-Applikation, die es ermöglicht, dynamische RDS-Informationen (Radio Data System) direkt in ein Stereo-Audiosignal einzubetten. Die Ausgabe erfolgt idealerweise über einen angeschlossenen USB-DAC (Digital-Analog-Wandler), um das Signal anschließend in einen FM-Transmitter einzuspeisen.
 
-## ✨ Features
+<img width="195" height="750" alt="Screenshot1" src="https://github.com/user-attachments/assets/41fd52df-065b-4b96-ba74-56fafe7754d7" />
+<img width="346" height="750" alt="Bild2" src="https://github.com/user-attachments/assets/e0cd0ab2-b089-46de-bce1-12bdf4010ef6" />
+<img width="346" height="750" alt="Bild3" src="https://github.com/user-attachments/assets/d20627a3-72df-4e29-b603-44e9a119fca8" />
+
+
+
+## ✨ Features (Version 1.1)
 
 *   **Basis-RDS-Parameter:** PI-Code, ECC, Programmtyp (PTY), Traffic Program (TP) und Traffic Announcement (TA).
 *   **Alternative Frequenzen (AF):** Eingabe von bis zu 25 AF-Frequenzen.
