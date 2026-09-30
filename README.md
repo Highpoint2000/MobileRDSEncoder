@@ -52,5 +52,5 @@ Feedback, Bug-Reports oder Feature-Ideen sind immer willkommen!
 *   **Discord:** `Highpoint2000`
 *   **E-Mail:** [highpoint2000@gmail.com](mailto:highpoint2000@gmail.com)
 
-Wenn dir das Tool gefällt und es bei deinem nächsten DX-Projekt oder Radio-Revival zuverlässig läuft, freue ich mich über einen Kaffee:  
+Wenn dir das Tool gefällt freue ich mich über einen Kaffee:  
 <a href="https://www.buymeacoffee.com/Highpoint" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
