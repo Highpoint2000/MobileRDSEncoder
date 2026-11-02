@@ -11,8 +11,8 @@ Der **Mobile RDS Encoder** ist eine Android-Applikation, die es ermöglicht, dyn
 *   **Basis-RDS-Parameter:** PI-Code, ECC, Programmtyp (PTY), Traffic Program (TP) und Traffic Announcement (TA).
 *   **Alternative Frequenzen (AF):** Eingabe von bis zu 25 AF-Frequenzen.
 *   **Dynamischer Sendername (PS) & Radiotext (RT):** Mehrere Zeilen mit konfigurierbarem Wechselintervall und automatischem A/B-Flag-Wechsel.
-*   **Erweiterter RDS-Zeichensatz (Neu in v1.2):** Echte Umlaute und Akzente werden für maximale Hardware-Kompatibilität (z. B. TEF6686 Receiver) im Hintergrund vollautomatisch RDS-konform umgewandelt (ä -> ae, ß -> ss).
-*   **Webradio-Integration & Smart Parsing:** Integrierter Player für Webradio-Streams inkl. automatischer Extraktion von ICY-Metadaten. Dank robustem Charset-Fallback (UTF-8 / Windows-1252) in v1.2 werden Sonderzeichen aus Streams immer fehlerfrei dargestellt.
+*   **Nativer RDS-Zeichensatz (Neu in v1.2):** Volle Unterstützung für echte deutsche Umlaute (ä, ö, ü, ß). Diese werden über das EBU G0-Mapping exakt codiert, sodass Hardware-Receiver wie der TEF6686 sie absolut fehlerfrei und nativ im Display darstellen.
+*   **Webradio-Integration & Smart Parsing:** Integrierter Player für Webradio-Streams inkl. automatischer Extraktion von ICY-Metadaten. Dank robustem Charset-Fallback (UTF-8 / Windows-1252) in v1.2 werden Sonderzeichen aus Streams immer sauber gelesen und für das RDS-Signal aufbereitet.
 *   **Erweitertes RDS-Routing & Boost (Neu in v1.2):** 
     * Gezielte Ausgabe des RDS-Signals wahlweise auf dem linken (LI), rechten (RE) oder beiden (LI+RE) Audiokanälen.
     * **RDS Signal Boost:** Das RDS-Basebandsignal kann nun stufenlos bis zu 10-fach digital verstärkt werden, um Pegelschwächen des Smartphones auszugleichen.
